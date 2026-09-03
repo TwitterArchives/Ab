@@ -153,7 +153,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Save Page WE](https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof)|| Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.|
 |[ThreatPinch Lookup](https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke)|| Add threat intelligence hover tool tips. IPv4, MD5, SHA2, CVE, FQDN or add your own ThreatIntel IOC. Use any REST API.|
 |[Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)|| View archived and cached versions of web pages on 10+ search engines, such as the Wayback Machine, Archive.is and Google.| 
-|[Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)|| Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.| 
+|[Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpcocjcammlapcogcnnelfmaeghhagj)|| Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.| 
 |[FOCA Files Finder](https://chrome.google.com/webstore/detail/foca-files-finder/mhobefinhafbleanihidiifaedcceoij)|| Scans for available files for a website and provide with the download link for analyzing locally.
 
 **Firefox Extensions**
@@ -211,7 +211,7 @@ The process of installation is almost the same.
 
 **Contributions are always welcome!**
 
-You can contact us any time on any of our social media platforms for any kind of suggestions and Contributions.
+You can contact us any time on any of our social media platforms for any kind of suggestions and Contributions. .
 
 Official Mail - osintambition@gmail.com
 
