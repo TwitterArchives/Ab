@@ -222,4 +222,4 @@ Twitter - [https://twitter.com/osintambition](https://twitter.com/osintambition)
 Telegram - [https://t.me/osintambition](https://t.me/osintambition)
 
 
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ in India 🇮🇳 .
